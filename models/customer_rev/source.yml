@@ -1,0 +1,9 @@
+sources:
+  - name: landing
+    database: SANAMART_OMS 
+    schema: L1_LANDING 
+    tables:
+      - name: orders
+      - name: customers
+      - name: ORDERITEMS
+      - name: EMPLOYEES
